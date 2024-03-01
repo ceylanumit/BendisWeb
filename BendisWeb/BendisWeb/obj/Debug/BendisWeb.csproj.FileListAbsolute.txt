@@ -1,0 +1,10 @@
+D:\github\BendisWeb\BendisWeb\bin\Debug\BendisWeb.exe.config
+D:\github\BendisWeb\BendisWeb\bin\Debug\BendisWeb.exe
+D:\github\BendisWeb\BendisWeb\bin\Debug\BendisWeb.pdb
+D:\github\BendisWeb\BendisWeb\obj\Debug\BendisWeb.csproj.AssemblyReference.cache
+D:\github\BendisWeb\BendisWeb\obj\Debug\BendisWeb.Form1.resources
+D:\github\BendisWeb\BendisWeb\obj\Debug\BendisWeb.Properties.Resources.resources
+D:\github\BendisWeb\BendisWeb\obj\Debug\BendisWeb.csproj.GenerateResource.cache
+D:\github\BendisWeb\BendisWeb\obj\Debug\BendisWeb.csproj.CoreCompileInputs.cache
+D:\github\BendisWeb\BendisWeb\obj\Debug\BendisWeb.exe
+D:\github\BendisWeb\BendisWeb\obj\Debug\BendisWeb.pdb
