@@ -19,4 +19,4 @@ After installing the app, you will see a web browser interface in the main windo
 
 ## Screenshots
 
-![Main Window](bendisWeb.PNG)
+![Main Window](BendisWeb/bendisWeb.PNG)
