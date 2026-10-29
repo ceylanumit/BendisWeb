@@ -1,22 +1,21 @@
-# BendisWeb
+# BendisWeb — Desktop Browser Prototype
 
-BendisWeb is a simple browser application. This application is developed on the .NET platform using Windows Forms. Users can visit web pages, navigate forward and backward and search Google.
+A small C# Windows Forms project using the built-in WebBrowser control. It provides address navigation, back and forward buttons, and Google search.
 
-## How to Use
+## Build and run
 
-After installing the app, you will see a web browser interface in the main window. You can type a URL in the address bar at the top. You can also navigate with the back and forward buttons. If you want to use the Google search engine to search, type the term in the search box and then click on the "Google" button.
+1. Clone or download this repository.
+2. Open `BendisWeb/BendisWeb.sln` in Visual Studio with the **.NET desktop development** workload and the **.NET Framework 4.7.2 targeting pack**.
+3. Build the solution and run it with **F5**.
 
-## Requirements
+## Usage
 
-- .NET Framework 4.5 or higher
+Enter a URL in the address field and use the navigation button to open it. Use the back and forward controls to move between visited pages, or enter a query in the search field.
 
-## Installation
+## Screenshot
 
-1. Clone this repository or download it as a ZIP.
-2. Open Visual Studio or similar IDE.
-3. Open the project file (`BendisWeb.sln`).
-4. Compile and run the project.
+![BendisWeb desktop browser](BendisWeb/bendisWeb.PNG)
 
-## Screenshots
+## Project scope
 
-![Main Window](BendisWeb/bendisWeb.PNG)
+This is a learning project built around the legacy Windows Forms WebBrowser control. Modern websites may not render correctly in its browser engine.
